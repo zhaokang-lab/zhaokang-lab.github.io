@@ -5,6 +5,8 @@
 - 维护各个栏目内容请到主目录下各个markdown文件中进行增改，其中Profile一栏为默认栏目，进行维护需要修改 `index.md` 文件。
 - 各类元素与图片均在 `assets` 目录下。
 
+以下为原作者Christian Ezeani其项目panthera-jekyll的帮助文档：
+
 # panthera-jekyll
 
 [![Gem Version](https://badge.fury.io/rb/panthera-jekyll.svg)](https://badge.fury.io/rb/panthera-jekyll)
