@@ -28,7 +28,7 @@ menu:
     icon: ""
 
   - text: Openings
-    link: /Openings
+    link: /openings
     icon: ""
 
   - text: Contact Me
@@ -39,8 +39,8 @@ menu:
     link: /group
     icon: ""
 
-  - text: Publications
-    link: /blog
+  - text: Publications & Honors
+    link: /publications-honors
     icon: ""
 
 # Socialmedia Icons
