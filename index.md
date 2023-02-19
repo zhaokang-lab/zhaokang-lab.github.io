@@ -6,6 +6,8 @@ layout: default
 
 ## Short Bio
 
+<img align="left" src="./assets/images/ZhaoKang.jpg"/>
+
 Kang Zhao joined the Department of Integrated Circuits, Beijing University of Posts and Telecommunications (BUPT) as a Professor in 2022. He has been deeply involved in the field of integrated circuit EDA for nearly 20 years, and has both college work experience and rich experience in high-end product design of international leading enterprises.
 
 In 2009, he graduated from the EDA Laboratory of the Department of Computer Science, Tsinghua University, and then stayed for two years. He has presided over and participated in the National Natural Science Foundation, the National Postdoctoral Foundation, and the major projects of the 11th Five-Year Plan for nuclear science and technology. He joined Intel Research Institute in 2011, and participated in projects such as Intel Clanton processors, software and hardware co-verification, and artificial intelligence robots. In 2016, he joined Xilinx (AMD) Beijing R&D Center, led Xilinx (AMD)'s EDA high-level integrated product team, and docked the most advanced HLS products in the global FPGA field.
