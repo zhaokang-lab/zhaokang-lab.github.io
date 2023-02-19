@@ -28,7 +28,7 @@ menu:
     icon: ""
 
   - text: Openings
-    link: /skills-and-offers
+    link: /Openings
     icon: ""
 
   - text: Contact Me
@@ -36,7 +36,7 @@ menu:
     icon: ""
 
   - text: Research Group
-    link: /resume
+    link: /group
     icon: ""
 
   - text: Publications
