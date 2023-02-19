@@ -24,7 +24,7 @@ footer:
 # Side Menu Links
 menu:
   - text: Profile
-    link: /profile
+    link: /
     icon: ""
 
   - text: Openings
