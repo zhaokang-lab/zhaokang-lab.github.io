@@ -23,11 +23,11 @@ footer:
 
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Profile
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Openings
     link: /skills-and-offers
     icon: ""
 
@@ -35,11 +35,11 @@ menu:
     link: /contact
     icon: ""
 
-  - text: My Resume
+  - text: Research Group
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: Publications
     link: /blog
     icon: ""
 
