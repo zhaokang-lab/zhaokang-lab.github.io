@@ -1,7 +1,7 @@
 ---
 ---
 
-# Openings
+# OPENINGS
 
 I am looking for self-motivated PhD, Master and Undergraduate students. Please send me an email with your CV if you are interested in electronic design automation， FPGA tools, compiler optimization, computer architecture.
 
