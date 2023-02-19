@@ -1,3 +1,10 @@
+# 关于网站主页维护
+
+这是北京邮电大学赵康团队的主页，由学生李子睿（GitHub用户Moemoemaru）进行初步搭建。主页主要在用户Christian Ezeani的仓库panthera-jekyll基础上进行构建。如要进行主页维护请参考以下指引：
+- 维护主页各个标题信息以及简易外观维护，请在 `_config.yml` 中修改。
+- 维护各个栏目内容请到主目录下各个markdown文件中进行增改，其中Profile一栏为默认栏目，进行维护需要修改 `index.md` 文件。
+- 各类元素与图片均在 `assets` 目录下。
+
 # panthera-jekyll
 
 [![Gem Version](https://badge.fury.io/rb/panthera-jekyll.svg)](https://badge.fury.io/rb/panthera-jekyll)
