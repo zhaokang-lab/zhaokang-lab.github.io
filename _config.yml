@@ -14,9 +14,9 @@ subtitle: Bupt
 
 left_side:
   background_image: "./assets/images/left-background.jpg"
-  background_color: "#000"
-  close_button_color: "#000"
-  text_color: "#000"
+#   background_color: "#000"
+#   close_button_color: "#000"
+#   text_color: "#000"
 
 footer:
   copyright_text: "&copy; Christian Ezeani"
