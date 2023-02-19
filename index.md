@@ -6,7 +6,7 @@ layout: default
 
 ## Short Bio
 
-<img align="left" src="./assets/images/ZhaoKang.jpg"/>
+<img align="left" width="220" height="284" src="./assets/images/ZhaoKang.jpg"/>
 
 Kang Zhao joined the Department of Integrated Circuits, Beijing University of Posts and Telecommunications (BUPT) as a Professor in 2022. He has been deeply involved in the field of integrated circuit EDA for nearly 20 years, and has both college work experience and rich experience in high-end product design of international leading enterprises.
 
