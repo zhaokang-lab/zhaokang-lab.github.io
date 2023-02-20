@@ -16,3 +16,7 @@
 - Qirui Yang (Prof Wenjian Yu, Tsinghua University)
 - Xinying Du (Prof Xiaojuan Wang, Beijing University of Posts and Telecommunications)
 - Yajun Wang (Prof Jun Cui, Tianjin Polytechnic University)
+
+## Useful Links
+
+- [EDA/VLSI/FPGA Conferences](https://www.cse.chalmers.se/research/group/vlsi/conference/)
