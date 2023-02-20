@@ -5,10 +5,10 @@
 
 ## Graduate Students
 
-- Renjing Hou (Ph.D. 2022)
-- Zirui Li (M.S. 2022)
-- Jingyu Jia (M.S. 2022)
-- Kanglin Tian (M.S. 2020)
+- Renjing Hou (Ph.D. 2023)
+- Zirui Li (M.S. 2023)
+- Jingyu Jia (M.S. 2023)
+- Kanglin Tian (M.S. 2021)
 
 ## Cooperative Students
 
