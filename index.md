@@ -25,9 +25,18 @@ Electronic Design Automation; FPGA tools; Compiler optimization; Architecture.
 
 EDA电子设计自动化；FPGA工具；编译优化；体系结构
 
-## Projects
-National Key R&D Program of China (2022-2025). Project top leader. Chip and tool design for DPU.
-National scientific research projects (2022-2024). Project top leader. HLS tool optimization.
+## Academic Projects (Current)
+- National Key R&D Program of China (2022-2025). Project top leader. Chip and tool design for DPU.
+- National scientific research projects (2022-2024). Project leader. HLS tool optimization.
 
-科技部十四五重点研发计划 (2022-2025). 项目总体牵头负责人. DPU芯片设计与工具开发.
-国家科研项目 (2022-2024). 项目负责人. 高层综合EDA工具.
+- 科技部十四五重点研发计划 (2022-2025). 项目总体牵头负责人. DPU芯片设计与工具开发.
+- 国家科研项目 (2022-2024). 项目负责人. 高层综合EDA工具.
+
+## Finished Projects
+- National Natural Science Foundation of China (2012-2014). Project leader. ISE synthesis and verification for ASIP.
+- China Postdoctoral Science Foundation (2010-2011). Project leader. Instruction custom algorithm and platform.
+- 973 Key Project of Chinese National Programs for Fundamental Research and Development (2005-2011). Participate. Design and Verification for High-Performance Core.
+
+- 国家自然科学基金 (2012-2014). 项目负责人. 专用指令集处理器指令定制与验证.
+- 国家博士后基金 (2010-2011). 项目负责人. 专用指令自动定制算法与平台.
+- 973国家重点基础研发(2005-2011). 参与. 高性能的处理芯片设计、验证与测试.
