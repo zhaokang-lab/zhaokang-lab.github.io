@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# PROFILE
+# Prof Kang Zhao
 
 ## Short Bio
 
@@ -10,9 +10,9 @@ layout: default
 
 Kang Zhao joined the Department of Integrated Circuits, Beijing University of Posts and Telecommunications (BUPT) as a Professor in 2022. He has been deeply involved in the field of integrated circuit EDA for nearly 20 years, and has both college work experience and rich experience in high-end product design of international leading enterprises.
 
-In 2009, he graduated from the EDA Laboratory of the Department of Computer Science, Tsinghua University, and then stayed for two years. He has presided over and participated in the National Natural Science Foundation, the National Postdoctoral Foundation, and the major projects of the 11th Five-Year Plan for nuclear science and technology. He joined Intel Research Institute in 2011, and participated in projects such as Intel Clanton processors, software and hardware co-verification, and artificial intelligence robots. In 2016, he joined Xilinx (AMD) Beijing R&D Center, led Xilinx (AMD)'s EDA high-level integrated product team, and docked the most advanced HLS products in the global FPGA field.
+In 2009, he graduated from the EDA Lab of Tsinghua University, and then continued to work in Tsinghua for two years. He has presided over and participated in the NSFC, China Postdoctoral Science Foundation, and National Key R&D Program of China. He joined Intel Lab in 2011, and participated in Intel research projects such as Clanton processors, HW/SW co-verification, and intelligence robots. In 2016, he joined Xilinx (AMD) Inc, and led Xilinx High-level Synthesis (HLS) product team.
 
-In 2022, he joined the School of Integrated Circuits of Beijing University of Posts and Telecommunications, focusing on the EDA direction of integrated circuit discipline, especially the high-level integration and logic integration of digital front-end. At present, as the project leader, he has led one key research and development project of the Ministry of Science and Technology during the 14th Five-Year Plan and several enterprise cooperation projects.
+In 2022, he joined the Beijing University of Posts and Telecommunications, focusing on the EDA and FPGA domain, especially HLS and logic synthesis. He is leading the project of National Key R&D Program of China.
 
 赵康，北京邮电大学集成电路学院教授，博士生导师。深耕集成电路EDA领域(Synthesis)近20年，既有高校工作经历，又有丰富的国际领军企业高端产品设计经验。
 
@@ -21,6 +21,6 @@ In 2022, he joined the School of Integrated Circuits of Beijing University of Po
 2022年加盟北京邮电大学集成电路学院，专注于集成电路学科的EDA方向，尤其侧重数字前端的高层次综合与逻辑综合。目前以项目负责人身份牵头十四五科技部重点研发项目1项，若干企业合作项目。
 
 ## Research Interests
-Electronic design automation， FPGA tools, Compiler optimization, Computer architecture.
+Electronic Design Automation; FPGA tools; Compiler optimization; Architecture.
 
-EDA电子设计自动化；FPGA工具；编译优化；计算机体系结构
+EDA电子设计自动化；FPGA工具；编译优化；体系结构
