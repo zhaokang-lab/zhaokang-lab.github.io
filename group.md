@@ -22,7 +22,7 @@
 ### Conference & Journal
 
 - [EDA/VLSI/FPGA Conferences](https://www.cse.chalmers.se/research/group/vlsi/conference/)
-- [Misc Call for Papers](## Useful Links)
+- [Misc Call for Papers](http://wikicfp.com/cfp/allcfp)
 
 ### Degree & Writing
 - [How to write papers](https://web.ece.ucsb.edu/~zhengzhang/paper%20writing%20checklist_v2.pdf) from Prof Zheng Zhang
