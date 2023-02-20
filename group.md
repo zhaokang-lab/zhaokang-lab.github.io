@@ -12,8 +12,8 @@
 
 ## Cooperative Students
 
-- Tingyuan Liang, Linfeng Du, Jinming Ge (Prof Wei Zhang, Hong Kong University of Science and Technology)
-- Qirui Yang (Prof Wenjian Yu, Tsinghua University)
+- Tingyuan Liang, [Linfeng Du](https://www.linkedin.cn/incareer/in/linfeng-du), Jinming Ge ([Prof Wei Zhang](https://seng.hkust.edu.hk/about/people/faculty/wei-zhang), Hong Kong University of Science and Technology)
+- Qirui Yang ([Prof Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/), Tsinghua University)
 - Xinying Du (Prof Xiaojuan Wang, Beijing University of Posts and Telecommunications)
 - Yajun Wang (Prof Jun Cui, Tianjin Polytechnic University)
 
