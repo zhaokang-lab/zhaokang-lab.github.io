@@ -24,3 +24,10 @@ In 2022, he joined the Beijing University of Posts and Telecommunications, focus
 Electronic Design Automation; FPGA tools; Compiler optimization; Architecture.
 
 EDA电子设计自动化；FPGA工具；编译优化；体系结构
+
+## Projects
+National Key R&D Program of China (2022-2025). Project top leader. Chip and tool design for DPU.
+National scientific research projects (2022-2024). Project top leader. HLS tool optimization.
+
+科技部十四五重点研发计划 (2022-2025). 项目总体牵头负责人. DPU芯片设计与工具开发.
+国家科研项目 (2022-2024). 项目负责人. 高层综合EDA工具.
