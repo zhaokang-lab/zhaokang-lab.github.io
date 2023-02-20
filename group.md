@@ -20,5 +20,5 @@
 ## Useful Links
 
 - [EDA/VLSI/FPGA Conferences](https://www.cse.chalmers.se/research/group/vlsi/conference/)
-- [How to write papers](https://web.ece.ucsb.edu/~zhengzhang/paper writing checklist_v2.pdf) from Prof Zheng Zhang
+- [How to write papers](https://web.ece.ucsb.edu/~zhengzhang/paper%20writing%20checklist_v2.pdf) from Prof Zheng Zhang
 - [Read this paper before you pursue a PhD degree](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
