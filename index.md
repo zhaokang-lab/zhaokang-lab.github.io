@@ -35,3 +35,11 @@ EDA电子设计自动化；FPGA工具；编译优化；体系结构
 - China Postdoctoral Science Foundation (2010-2011). Project leader. Instruction custom algorithm and platform.
 - 973 Key Project of Chinese National Programs for Fundamental Research and Development (2005-2011). Participate. Design and Verification for High-Performance Core.
 
+## Professional Services
+- TPC Chair for FPT'2025 (FPGA international conference).
+- Editorial committee member for "Journal of Computer-Aided Design & Computer Graphics", 2023-now. (国内A类期刊《计算机辅助设计与图形学学报》)
+- Publicity Chair for FPT'2022 (FPGA international conference).
+- Program Commitee for FPT'2014 (FPGA international conference).
+- Secretary and Web Chair for FPT'2010 (FPGA international conference).
+- Secretary for CAD/Graphics'2010 (计算机辅助设计与图形学会议)
+- Reviewer for top conferences in the areas of EDA and FPGA, including DAC, ICCAD, DATE, ICCD, FPGA, FCCM, FPL, etc.
