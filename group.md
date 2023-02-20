@@ -27,6 +27,7 @@
 ### Degree & Writing
 - [How to write papers](https://web.ece.ucsb.edu/~zhengzhang/paper%20writing%20checklist_v2.pdf) from Prof Zheng Zhang
 - [Read this paper before you pursue a PhD degree](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+- Mange paper reading and notes: [Link](https://readpaper.com)
 
 ### Tools & Software
 - to be added
