@@ -19,6 +19,14 @@
 
 ## Useful Links
 
+### Conference & Journal
+
 - [EDA/VLSI/FPGA Conferences](https://www.cse.chalmers.se/research/group/vlsi/conference/)
+- [Misc Call for Papers](## Useful Links)
+
+### Degree & Writing
 - [How to write papers](https://web.ece.ucsb.edu/~zhengzhang/paper%20writing%20checklist_v2.pdf) from Prof Zheng Zhang
 - [Read this paper before you pursue a PhD degree](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
+### Tools & Software
+- to be added
