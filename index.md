@@ -25,15 +25,19 @@ Electronic Design Automation; FPGA tools; Compiler optimization; Architecture.
 
 EDA电子设计自动化；FPGA工具；编译优化；体系结构
 
-## Academic Projects (Current)
+## Current Academic Projects
 - National Key R&D Program of China (2022-2025). Project top leader. Chip and tool design for DPU.
 - National scientific research projects (2022-2024). Project leader. HLS tool optimization.
 
-
-## Finished Projects
+## Finished Academic Projects
 - National Natural Science Foundation of China (2012-2014). Project leader. ISE synthesis and verification for ASIP.
 - China Postdoctoral Science Foundation (2010-2011). Project leader. Instruction custom algorithm and platform.
 - 973 Key Project of Chinese National Programs for Fundamental Research and Development (2005-2011). Participate. Design and Verification for High-Performance Core.
+
+## Finished Industry Projects
+- Xilinx Vitis HLS Product Release (2018-2022). Product Beijing Team Leader; focus on LLVM FPGA-target optimizations especially.
+- Intel Home Robot (2015-2016). SLAM team key member.
+- Intel Clanton Processor project. Team key member, focus on cache coherence and validation.
 
 ## Professional Services
 - TPC Chair for FPT'2025 (FPGA international conference).
