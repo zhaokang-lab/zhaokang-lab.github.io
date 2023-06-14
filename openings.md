@@ -9,7 +9,7 @@ I am looking for self-motivated PhD, Master and Undergraduate students. Please s
 
 有意愿申请2024级硕士/博士研究生的同学请提前联系。计算机系优先，同时考虑集成电路、电子系、微电子。
 
-2024招生海报下载
+[2024招生海报下载](https://zhaokang-lab.github.io/Recruit_BUPT_ZhaoKang_EDA.pdf)
 
 ## Required Skills
 
