@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Prof Kang Zhao
+# Prof Kang Zhao (赵康)
 
 ## Short Bio
 
@@ -27,21 +27,21 @@ EDA电子设计自动化；FPGA工具；编译优化；体系结构
 
 ## Projects
 ### Current Academic Projects
-- National Key R&D Program of China (2022-2025). Project top leader. Chip and tool design for DPU.
-- National scientific research projects (2022-2024). Project leader. HLS tool optimization.
+- National Key R&D Program of China (2022-2025). Project top leader. 主持科技部重点研发项目.
+- National research projects (2022-2024). Project leader. 主持国防类纵向项目.
 
 ### Finished Academic Projects
-- National Natural Science Foundation of China (2012-2014). Project leader. ISE synthesis and verification for ASIP.
-- China Postdoctoral Science Foundation (2010-2011). Project leader. Instruction custom algorithm and platform.
-- 973 Key Project of Chinese National Programs for Fundamental Research and Development (2005-2011). Participate. Design and Verification for High-Performance Core.
+- National Natural Science Foundation of China (2012-2014). Project leader. 主持国家自然科学基金项目.
+- China Postdoctoral Science Foundation (2010-2011). Project leader. 主持博士后基金项目.
+- 973 Key Project of Chinese National Programs for Fundamental Research and Development (2005-2011). 参与国家973项目.
 
 ### Finished Industry Projects
-- Xilinx Vitis HLS Product Release (2018-2022). Xilinx Beijing RD Team Leader; focus on LLVM FPGA-target optimizations especially.
-- Intel Home Robot (2015-2016). SLAM Team key member, focus on action controlling under SLAM.
-- Intel Clanton Processor project (2011-2014). Team key member, focus on cache coherence and validation.
+- Xilinx Vitis HLS Product Release (2018-2022). Xilinx Beijing RD Team Leader.主持Xilinx Vitis HLS产品项目.
+- Intel Home Robot (2015-2016). 参与英特尔机器人项目.
+- Intel Clanton Processor project (2011-2014). 参与英特尔处理器项目.
 
 ## Professional Services
-- TPC Chair for FPT'2025 (FPGA international conference).
+- TPC Chair for FPT'2025 (FPGA international conference): [Link](https://fpt2025.shanghaitech.edu.cn/committee/)
 - Editorial committee member for "Journal of Computer-Aided Design & Computer Graphics", 2023-now. (国内A类期刊《计算机辅助设计与图形学学报》)
 - Publicity Chair for FPT'2022 (FPGA international conference).
 - Program Commitee for FPT'2014 (FPGA international conference).

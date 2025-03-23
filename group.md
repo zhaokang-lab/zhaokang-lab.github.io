@@ -1,14 +1,38 @@
 ---
 ---
 
-# RESEARCH GROUP
+# TEAM
 
-## Graduate Students
+## Teachers
 
-- Renjing Hou (Ph.D. 2023)
-- Zirui Li (M.S. 2023)
-- Jingyu Jia (M.S. 2023)
-- Kanglin Tian (M.S. 2021)
+- [Prof Jianwang Zhai](https://zhaijw18.github.io/)
+- [Prof Zhe Lin](https://zlinaf.github.io/), Sun Yat-sen University
+
+## PhD Students
+
+- Renjing Hou (2023): high-level synthesis
+- Kanglin Tian (2024): layout; floorplan, placement
+- Xinya Luan (2024): Versal AIE
+- Yijun Chen (2024): Multi-FPGA (Cooperator: [Prof Wenjian Yu](http://viplab.fudan.edu.cn/), Tsinghua University)
+- Yu Zhang (2024): Multimedia (Cooperator: [Prof Yibo Fan](http://viplab.fudan.edu.cn/), Fudan University)
+
+## Master Students
+
+- Zirui Li (2023): floorplan, placement, routing
+- Jingyu Jia (2023): EMIR
+- Guande Dong (2023): Logic synthesis
+- Hengyuan Zhang (2023): Chiplet partitioning
+- Zibo Hu (2024): high-level synthesis
+- Kai Shi (2024): Versal AIE
+- Xingyu Qin (2024): logic synthesis
+- Xiao Yang (2024): logic synthesis
+- Zichao Ling (2024): architecture DSE
+- Debin Cao (2024): chiplet floorplan
+- Zhenghao Chen (2024): LLM for EDA
+- Donghao Guo (2024): high-level synthesis
+- Ze Hao (2024): chiplet thermal modeling
+
+
 
 ## Cooperative Students
 
