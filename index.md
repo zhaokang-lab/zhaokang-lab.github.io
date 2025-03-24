@@ -28,7 +28,6 @@ EDA电子设计自动化；FPGA工具；编译优化；体系结构
 ## Projects
 ### Current Academic Projects
 - National Key R&D Program of China (2022-2025). Project top leader. 主持科技部重点研发项目.
-- National research projects (2022-2024). Project leader. 主持国防类纵向项目.
 
 ### Finished Academic Projects
 - National Natural Science Foundation of China (2012-2014). Project leader. 主持国家自然科学基金项目.
