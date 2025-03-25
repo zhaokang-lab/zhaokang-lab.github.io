@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "ZhaoKang-Lab / Bupt"
+title                    : "ZhaoKang-Lab / BUPT"
 title_separator          : "-"
 name                     : &name "Kang Zhao"
 description              : &description "Professor at BUPT"
