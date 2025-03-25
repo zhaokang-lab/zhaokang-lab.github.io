@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "ZhaoKang-Lab / BUPT"
 title_separator          : "-"
-name                     : &name "Kang Zhao"
+name                     : &name "Zhao Kang"
 description              : &description "Professor at BUPT"
 url                      : https://zhaokang-lab.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "zhaokang-lab/zhaokang-lab.github.io"
 author:
   # Biographic information
   avatar           : "ZhaoKang.png"
-  name             : "Kang Zhao"
+  name             : "Zhao Kang"
   pronouns         : # example: "she/her"  
   bio              : "Zhao Kang, Professor, PhD Supervisor, has been dedicated to the field of Integrated Circuit EDA (Synthesis) for nearly 20 years."
   location         : "Beijing, China"
@@ -209,22 +209,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-
-# These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site

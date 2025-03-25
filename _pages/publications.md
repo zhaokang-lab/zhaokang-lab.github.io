@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
-
-# PUBLICATIONS
 
 **\* denotes equal contribution**
 
