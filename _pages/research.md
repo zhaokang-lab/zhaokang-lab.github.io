@@ -10,13 +10,25 @@ author_profile: true
 
 The AI Engine (AIE) is an adaptive intelligence processing unit integrated on Xilinx (AMD)'s Versal heterogeneous computing platforms and RyzenAI devices. Our research focuses on hardware acceleration leveraging AIE for domain-specific applications, as well as performance modeling and compiler optimization for general-purpose workloads. Driven by AMD Vitis and open-source MLIR-based compiler toolchains, we are systematically investigating promising compiler optimization techniques tailored for AIE architectures. Our work aims to enhance programmability, efficiency, and performance scalability across diverse AIE/AIE-ML based applications and frameworks.
 
-  <img align="center" src="../images/AIE.png"/>
+<img align="center" src="../images/AIE.png"/>
 
 ## Design Space Exploration (DSE) for CPU Architecture
 
 # Synthesis for FPGA/ASIC
 ## High-level Synthesis (HLS)
+High-Level Synthesis (HLS) is a transformative technology in Electronic Design Automation (EDA) that enables the automatic generation of hardware designs from high-level programming languages such as C, C++, or Python. The primary function of HLS tools is to bridge the gap between software and hardware development, allowing designers to focus on algorithmic optimization while the tool handles the complexities of hardware implementation. This significantly reduces development time and makes hardware design more accessible to software engineers.
 
+<img align="center" src="../images/HLS.png"/>
+
+As shown in the diagram, the HLS (High-Level Synthesis) process is typically divided into two parts: the front-end and the back-end. The front-end is responsible for parsing high-level language code into an intermediate representation (IR) and applying optimization techniques (such as loop unrolling, pipelining, and dataflow analysis) to generate an efficient hardware architecture. The back-end then translates the optimized IR into target hardware description languages (HDLs), performs resource allocation and scheduling, and generates the final RTL (Register Transfer Level) code. 
+
+Our research team focuses on two critical aspects of HLS: Design Space Exploration (DSE) and Quality of Results (QoR) Estimation. In DSE, we develop methodologies to systematically explore and optimize the vast design space of HLS-generated hardware, balancing performance, area, and power consumption. For QoR estimation, we investigate predictive models and analytical techniques to accurately estimate hardware metrics (e.g., latency, resource utilization, and power) at early design stages, reducing the need for time-consuming synthesis and place-and-route iterations.
+
+高层次综合（High-Level Synthesis, HLS）是电子设计自动化（EDA）前端的一项重要技术，它能够将 C、C++ 或 Python 等高级编程语言自动转换为硬件设计。HLS 工具的核心功能是弥合软件开发和硬件设计之间的鸿沟，使设计者能够专注于算法优化，而工具则负责处理硬件实现的复杂性。这极大地缩短了开发时间，并使硬件设计对软件工程师更加友好。
+
+如图所示，HLS 流程通常分为前端和后端两部分：前端负责将高级语言代码解析为中间表示（IR），并应用优化技术（如循环展开、流水线和数据流分析）以生成高效的硬件架构；后端则将优化后的 IR 转换为目标硬件描述语言，并进行资源分配、调度和生成最终的 RTL 代码。
+
+我们的研究团队专注于 HLS 的两个关键方向：设计空间探索（Design Space Exploration, DSE）和结果质量预估（Quality of Results, QoR Estimation）。在 DSE 方面，我们开发了系统化的方法来探索和优化 HLS 生成的硬件设计空间，平衡性能、面积和功耗等指标。在 QoR 预估方面，我们研究了预测模型和分析技术，以在设计早期阶段准确估计硬件指标（如延迟、资源利用率和功耗），从而减少耗时的综合和布局布线迭代。
 ## Logic Synthesis
 Logic synthesis is the process of transforming high-level abstract specifications of circuit behavior (such as Register Transfer Level (RTL)) into a gate-level design implementation. Common examples include the synthesis of designs specified in hardware description languages (such as VHDL and Verilog). Logic synthesis enables designers to define desired functionality at a high level without focusing on the low-level gate implementation details. The process includes stages such as translation, optimization, and technology mapping to optimize the circuit's performance, power, and area (PPA). 
 
