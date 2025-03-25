@@ -72,6 +72,11 @@ VLSI⾃动布局的⽬标是在芯⽚版图内确定所有电路单元的位置�
 - 碳基电路的变化感知布局
 
 ## EMIR
+As integrated circuit (IC) designs scale to unprecedented complexity, power grid (PG) analysis for voltage drop (IR drop) and electromigration (EM) has become a critical challenge. Our team focuses on developing advanced machine learning (ML) and numerical methods to address inefficiencies in traditional analysis tools, enabling rapid and accurate evaluation of power integrity in large-scale ICs. We combine numerical solvers like AMG-PCG with ML models such as IR-Fusion and PGAU to balance accuracy and speed, leveraging hierarchical feature fusion, attention mechanisms, and graph-based modeling (e.g., IRGNN) for fine-grained IR drop predictions. For EM analysis, we propose a fast estimation method using Monte Carlo sampling of random activation energy to account for stochastic fabrication variations. Current work emphasizes enhancing model scalability for industrial PGs, exploring edge computing for real-time monitoring, and integrating physics-based models with deep learning. Future directions include hardware acceleration of hybrid solvers, self-supervised learning for unlabeled data, and advanced uncertainty quantification.
+
+随着集成电路（IC）设计复杂度的急剧增加，电源网格（PG）的电压降（IR Drop）和电迁移（EM）分析成为关键挑战。我们团队致力于结合先进的机器学习（ML）与数值方法，解决传统分析工具的效率问题，实现大规模 IC 中电源完整性的快速精准评估。通过结合 AMG-PCG 数值求解器与 IR-Fusion、PGAU 等 ML 模型，利用层次化特征融合、注意力机制和图神经网络（如 IRGNN）实现细粒度 IR Drop 预测。针对电迁移分析，提出基于随机激活能蒙特卡洛采样的快速估计方法，应对制造工艺的随机性。当前研究聚焦于提升工业级电源网格模型的可扩展性、探索边缘计算实时监测技术，以及融合物理模型与深度学习的多尺度分析。未来方向包括混合求解器的硬件加速、无标签数据的自监督学习开发，以及电迁移与电压降预测的高级不确定性量化。
+
+<img align="center" src="../images/EMIR.png"/>
 
 # Chiplet Tools
 ## Simulation and Modeling
