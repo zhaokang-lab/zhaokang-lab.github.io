@@ -1,235 +1,89 @@
-# 关于网站主页维护
+# Academic Pages
+**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 
-这是北京邮电大学赵康团队的主页，由学生李子睿（GitHub用户Moemoemaru）进行初步搭建。主页主要在用户Christian Ezeani的仓库panthera-jekyll基础上进行构建。如要进行主页维护请参考以下指引：
-- 维护主页各个标题信息以及简易外观维护，请在 `_config.yml` 中修改。
-- 维护各个栏目内容请到主目录下各个markdown文件中进行增改，其中Profile一栏为默认栏目，进行维护需要修改 `index.md` 文件。目前主页上展示的各个栏目分别对应`openings.md`，`contact.md`，`group.md`和`publications.md`。
-- 各类元素与图片均在 `assets` 目录下。
+![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
-以下为原作者Christian Ezeani其项目panthera-jekyll的帮助文档：
+# Getting Started
 
-# panthera-jekyll
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Click the "Use this template" button in the top right.
+1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and add your content.
+1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
+1. Check status by going to the repository settings, in the "GitHub pages" section
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-[![Gem Version](https://badge.fury.io/rb/panthera-jekyll.svg)](https://badge.fury.io/rb/panthera-jekyll)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md)
-<!-- [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JT-red.svg)](https://jekyll-themes.com) -->
+See more info at https://academicpages.github.io/
 
-*panthera-jekyll is a Jekyll theme for GitHub Pages and Jekyll sites. You can [preview the theme to see what it looks like](https://demothemes.github.io/panthera-jekyll), or even [use it today](#installation).*
+## Running locally
 
-<div style="text-align: center;">
-  <img src="/screenshot.png" alt="panthera-jekyll" style="width: 100%; max-width: 750px;" />
-</div>
+When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
-## Installation
-
-### Building a Jekyll Site
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "panthera-jekyll"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: panthera-jekyll
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install panthera-jekyll
-
-### Building a Github Page
-
-Add this line to your Github Page's `_config.yml`:
-
-```yaml
-remote_theme: christianezeani/panthera-jekyll
-```
-
-## Customizing
-
-### Configuration variables
-
-panthera-jekyll will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site or Profile Name]
-subtitle: [A brief subtitle or job title]
-description: [A short description of your site's purpose]
-```
-
-To configure the left side set the following variables as shown below:
-
-```yml
-left_side:
-  background_image: [Absolute or relative image url]
-  background_color: [CSS background color, e.g. "#F00". We strongly recommend quoting this value. Don't worry about the transparency of the background, we've taken care of that.]
-  close_button_color: [CSS background color, e.g. "#F00". We strongly recommend quoting this value.]
-  text_color: [CSS background color, e.g. "#F00". We strongly recommend quoting this value.]
-```
-
-#### Example
-
-```yml
-left_side:
-  background_image: "./assets/images/left-background.jpg"
-  background_color: "#F00"
-  close_button_color: "#F00"
-  text_color: "#F00"
-```
-
-To configure side menu, set the following variables:
-
-```yml
-menu:
-  - text: [Menu text]
-    link: [Relative page link with the '/' prefix]
-    icon: [Menu Icon]
-```
-
-#### Example
-
-```yml
-menu:
-  - text: Portfolio
-    link: /
-    icon: ""
-
-  - text: Skills & Offers
-    link: /skills-and-offers
-    icon: ""
-```
-
-To configure social links, set the following variables:
-
-```yml
-social_icons:
-  - name: [Socialmedia title]
-    link: [Social link]
-    icon: [Icon class]
-```
-
-#### Example
-
-```yml
-social_icons:
-  - name: linkedin
-    link: https://www.linkedin.com/christianezeani
-    icon: fab fa-linkedin
-
-  - name: github
-    link: https://github.com/christianezeani
-    icon: fab fa-github-square
-```
-
-To configure footer, set the following variables:
-
-```yml
-footer:
-  copyright_text: [The copyright text. Value should be quoted]
-```
-
-#### Example
-
-```yml
-footer:
-  copyright_text: "&copy; Christian Ezeani"
-```
-
-panthera-jekyll currently supports the following icons:
-
-* [FontAwesome](https://fontawesome.com) (version 5.9.0)
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-
-2. Add the following content to the top of the file, exactly as shown:
-
-    ```scss
-    ---
-    ---
-
-    @import "panthera-jekyll";
+1. Clone the repository and made updates as detailed above.
+1. Make sure you have ruby-dev, bundler, and nodejs installed
+    
+    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
+    ```bash
+    sudo apt install ruby-dev ruby-bundler nodejs
     ```
+    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
+    ```bash
+    sudo apt update && sudo apt upgrade -y
+    ```
+    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
 
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+    On MacOS the commands are:
+    ```bash
+    brew install ruby
+    brew install node
+    gem install bundler
+    ```
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
+    Install Gems Locally (Recommended):
+    ```bash
+    bundle config set --local path 'vendor/bundle'
+    ```
+    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and open `.gitignore` then add `vendor` inside it.
 
-## Blog Posts
+1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
 
-### Creating Posts
+If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
-To create a post, add a file to your `_posts` directory with the following format:
+## Using Docker
 
+Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+
+You can build and execute the container by running the following command in the repository:
+
+```bash
+docker compose up
 ```
-YEAR-MONTH-DAY-title.MARKUP
-```
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. For example, the following are examples of valid post filenames:
+You should now be able to access the website from `localhost:4000`.
 
-```
-2020-07-10-new-years-eve-is-awesome.md
-```
+# Maintenance
 
-```md
+Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+
+This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+
+## Bugfixes and enhancements
+
+If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+
+Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+
 ---
-layout: post
-title: First Demo Post
-date: 2020-07-10 13:32:20 +0300
-description: Post description (optional)
-image: /image.jpg (optional)
-tags: [Holidays, Hawaii]
----
+<div align="center">
+    
+![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-Post content here
-```
-
-### Displaying an index of posts
-
-1. Create a page, e.g. `posts.md`, with the following content:
-
-```md
----
-layout: post
----
-
-# PAGE TITLE HERE
-
-{% include posts/index.html %}
-```
-
-2. Add a link to the left pane in your `_config.yml`
-
-```yml
-menu:
-  ...
-  - text: Blog Posts
-    link: /posts
-    icon: ""
-```
-
-...and you're good
-
-More post features are coming soon. To get updates on new features, hit the `Watch` button at the top of this page to get notifications.
-
-If you love this project, kindly hit the `Star` button at the top of this page.
-
-Follow me on [Github](//github.com/christianezeani) to see more of my projects.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrisitanezeani/panthera-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](https://contributor-covenant.org) code of conduct.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
+[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+</div>
