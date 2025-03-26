@@ -12,6 +12,8 @@ The AI Engine (AIE) is an adaptive intelligence processing unit integrated on Xi
 
 <img align="center" src="../images/AIE.png"/>
 
+AI 引擎（AIE）是赛灵思（AMD）公司推出的自适应智能处理芯片，搭载于赛灵思（ AMD）公司的 Versal ACAP 异构计算平台和 RyzenAI 处理器产品。团队目前集中于针对 AIE 异构平台进行特定领域应用的硬件加速、性能建模以及编译器优化工作。在 AMD Vitis 统一软件平台和开源 MLIR 工具链的支持下，本团队未来将专注于探索 AIE 硬件架构下的编译器优化方法，提高 AIE/AIE-ML 平台中各种应用框架的可编程性、性能和能耗。
+
 ## Design Space Exploration (DSE) for CPU Architecture
 
 We focus on the research, development, and innovation of Design Space Exploration (DSE) tools. We are committed to providing automated and intelligent decision - making support for the architectural design of advanced chips, processors, and heterogeneous computing systems. By integrating architectural modeling, optimization algorithms, and artificial intelligence technologies, the innovative framework proposed by our team aims to break through the efficiency bottleneck of traditional design processes and assist architectural designer in quickly identifying the optimal architectural solutions with high performance, low power, and high reliability in the complex multi - dimensional design space.
