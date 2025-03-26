@@ -39,10 +39,11 @@ author_profile: true
 - Tingyuan Liang, Linfeng Du, Jinming Ge (Prof Wei Zhang, Hong Kong University of Science and Technology) 梁庭园、杜林峰、葛谨鸣（香港科技大学张薇老师团队）
 - Qirui Yang (Prof Wenjian Yu, Tsinghua University) 杨祺瑞（清华大学喻文健老师团队）
 - Jiajin Xu (Prof Chao Zhao, Tsinghua University) 许家劲（清华大学张超老师团队）
-- Feng Guo, Jiawei Liu, Hongtao Cheng (Prof Chuan Shi, Beijing University of Posts and Telecommunications) 郭枫、刘佳伟、程泓涛（北京邮电大学石川老师团队）
+- Feng Guo, Jiawei Liu, Hongtao Cheng (Prof Chuan Shi, Beijing University of Posts and Telecommunications) 郭枫、刘佳玮、程泓涛（北京邮电大学石川老师团队）
 - Kang Yang (Prof Zhaofeng He, Beijing University of Posts and Telecommunications) 杨康（北京邮电大学何召峰老师团队）
 - Yu Chen, Qi Liu (Prof Hai Jiang, Beijing University of Posts and Telecommunications) 陈雨、刘奇（北京邮电大学姜海老师团队）
-- Yixin Xuan, Jiaqi Yan, Zhifeng Song (Future College of Beijing University of Posts and Telecommunications) 玄益昕、闫家齐、宋之峰（北京邮电大学未来学院本科生）
+- Yixin Xuan, Jiaqi Yan, Wenfeng Song (Future College of Beijing University of Posts and Telecommunications) 玄益昕、闫家齐、宋文峰（北京邮电大学未来学院本科生）
+- Zixuan Li and Chen Yang (Department of Electronic Engineering, BUPT)  李梓轩、杨晨，北邮电子学院
 - Xinying Du (Prof Xiaojuan Wang, Beijing University of Posts and Telecommunications) 杜欣颖（北京邮电大学王小娟老师团队）
 - Yajun Wang (Prof Jun Cui, Tianjin Polytechnic University) 王亚军（天津工业大学崔军老师团队）
 - Enxin Yi, Yiru Duan (Prof Zhou Jin, China university of petroleum) 中国石油大学金洲老师团队
@@ -54,26 +55,10 @@ author_profile: true
 - Liyang Dou 窦力扬(2025)
 - Peiyi Fu 伏培燚(2025)
 - Yahao Wang 王亚豪(2025)
-- Wu Luo 罗吴(2025)
+- Hao Luo 罗昊(2025)
 - Lin Li 李麟(2025)
 - Yuntao Nie 聂云滔(2025)
 - Luming Wang 王璐明(2025)
 - Yi Huang 黄羿(2025)
 - Zheqin Cao 曹哲钦(2025)
 - Yujie Zhang 张郁洁(2025)
-
-
-## Useful Links
-
-### Conference & Journal
-
-- [EDA/VLSI/FPGA Conferences](https://www.cse.chalmers.se/research/group/vlsi/conference/)
-- [Misc Call for Papers](http://wikicfp.com/cfp/allcfp)
-
-### Degree & Writing
-- [How to write papers](https://web.ece.ucsb.edu/~zhengzhang/paper%20writing%20checklist_v2.pdf) from Prof Zheng Zhang
-- [Read this paper before you pursue a PhD degree](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
-- Mange paper reading and notes: [Link](https://readpaper.com)
-
-### Tools & Software
-- to be added

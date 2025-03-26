@@ -26,8 +26,8 @@ main:
   - title: "Openings"
     url: /openings/ 
     
-  - title: "Download"
-    url: /download/
+  - title: "Downloads"
+    url: /downloads/
     
   # - title: "CV"
   #   url: /cv-json/
