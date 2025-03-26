@@ -1,0 +1,46 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+---
+
+- Mar 2025, FPT’2025 website is open. As the TPC Chair, Prof Kang Zhao will help to organize FPT’2025. Welcome to submit! (2025年3月, 国际会议FPT’2025网站正式开通. 作为程序委员会主席, 赵康老师与哈亚军老师共同承办该项FPGA领域国际重要会议. 欢迎投稿!)
+- Feb 2025, two papers related with AMD Versal AIE accelerator accepted by DAC 2025. Titles are "HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design" and “VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration”, congrats to Xinya Luan and Kai Shi! Thanks Prof Zhe Lin! (2025年2月，团队2篇文章被DAC2025收录，文章与AMD Versal AIE加速相关. 恭喜栾昕亚、石开！感谢林哲老师)
+- Feb 2025, another one paper related with EMIR accepted by DAC 2025. Its title is “IRGNN: A Graph-based Framework Integrating Numerical Solution and Point Cloud for Static IR Drop Prediction”. Congrats to Feng Guo, Yueyue and Jingyu Jia! Thanks Prof Jianwang! (2025年2月，团队还有1篇EMIR方向的文章也被DAC2025收录. 恭喜郭枫、席月月、贾敬瑜！谢谢翟建旺老师！)
+- Jan 2025, Kanglin and Guande attended ASP-DAC’2025 in Japan, and gave oral presentations! (2025年1月，田康林、董冠德参加日本东京举办的ASP-DAC’2025国际会议，并作了会议演讲报告.)
+- Dec 2024, one paper related with floorplan accepted by ISCAS’2025. Its title is “HieRFP: A Hierarchical Recognition and Floorplanning Framework for Reusable Modules”. Congrats to Zixuan and Kanglin! (2024年12月，团队1篇floorplan方向的文章被ISCAS’2025收录. 恭喜李梓轩、田康林！)
+- Dec 2024, team won the highest award in the EDA national competition, the Elite Cap! And also First Prize. Congrats to Hengyuan, Zirui and Kanglin! Thanks Prof Jianwang! This topic channel is related with Chiplet EDA tool. (2024年12月，团队斩获EDA全国精英挑战赛最高奖菁英杯、一等奖！恭喜张恒源、李子睿、田康林！感谢翟老师指导！该赛题与芯粒工具相关.)
+- Dec 2024, team won Third Prize in the EDA national competition! Congrats to Yijun, Liyang and Peiyi! This topic channel is related with Multi-FPGA partitioning. (2024年12月，团队同时获得EDA全国精英挑战赛三等奖！恭喜陈奕俊、窦力扬、伏培燚！该赛题与多FPGA划分算法相关)
+- Nov 2024, team won multi prizes in the Integrated Chip and Chilet Competition. Congrats to Zichao Ling, Lin Li and Yi Huang to win First Prize! Congrats to Fangli Liu, Luming Wang and Zheqin Cao to win Second Prize! Congrats to Yixin Xuan, Jiaqi Yan and Zhifeng Song to win Third Prize! Thanks Prof Jianwang Zhai! (2024年11月, 团队在集成芯片和芯粒技术开源社区大赛中斩获多个大奖. 恭喜凌梓超、李麟、黄奕获一等奖，刘芳丽、王璐明、曹哲钦获二等奖，玄益昕、闫家齐、宋之峰获三等奖！感谢翟老师指导)
+- Oct 2024, team won Third Prize in the University ICT Industry-Education Competition. The topic channel is related with semiconductor parameter optimizations. Congrats to Xiao Yang and Xingyu Qin! (2024年10月, 团队荣获高校ICT产教融合创新大赛三等奖！赛道题目与半导体工艺参数智能优化相关. 恭喜杨骁、秦星宇！)
+- Oct 2024, two papers accepted by ASP-DAC 2025. One is “PIRLLS: Pretraining with Imitation and RL Finetuning for Logic Synthesis”, another one is “FTAFP: A Feedthrough-Aware Floorplanner for Hierarchical Design of Large-Scale SoCs”. Congrats to Guande Dong, Zirui Li and Kanglin Tian! Thanks Prof Zhai. (2024年10月，团队两篇文章被ASP-DAC2025收录. 分别与逻辑综合、版图布图相关. 恭喜董冠德、李子睿、田康林！感谢翟老师指导！)
+- Oct 2024, one paper related with EMIR accepted by DATE 2025. Its title is “IR-Fusion: A Fusion Framework for Static IR Drop Analysis Combining Numerical Solution and Machine Learning”. Congrats to Feng Guo, Jingyu Jia and Jiawei Liu! Thanks Prof Zhai! (2024年10月，团队1篇EMIR方向的论文被DATE’2025收录. 恭喜郭枫、贾敬瑜、刘佳伟! 感谢翟老师指导)
+- Aug 2024, team won Xingxin Second Prize in the Graduate Chip Innovation Competition. Congrats to Yijun Chen, Ze Hao and Debin Hao! (2024年8月, 团队获得中国研究生创“芯”大赛行芯专项二等奖、团队优秀奖！恭喜陈奕俊、郝泽、曹德滨！)
+- Aug 2024, the mid-term assessment of the Key Research and Development Program passed! Thanks all for the help! (2024年8月, 团队牵头的重点研发项目顺利通过中期验收. 感谢各位的大力支持!)
+- Aug 2024, Prof Kang Zhao gave oral presentation in SMACD conference. The talk is related with HLS technique. (2024年8月, 作为特邀专家, 赵康在希腊举行的SMACD国际会议作了HLS技术的汇报)
+- July 2024, as the chief chair, Prof Kang Zhao organized FPGA workshop in CCF Chip conference. He invited the FPGA experts from academic and industry to give technical oral presentations, including Prof Yun Liang, Wei Zhang, Yajun Ha, Qiang Liu, Dr Haili and Xifan. (2024年7月，作为中国计算机学会的论坛主席，赵康老师组织承办了FPGA技术论坛，邀请了学术界和产业界的专家作了精彩的技术报告. 包括北京大学梁云教授、 香港科技大学张薇教授、上海科技大学哈亚军教授、天津大学刘强教授, 以及京微齐力公司王海力博士和芯璐科技的唐希凡博士)
+- May 2024, Renjing Hou, Chen Yang and et al attended ISEDA’2025 in Xi’an, and gave oral presentations. (2024年5月, 侯人靖、杨晨等多位同学参加了西安举办的ISEDA国际学术会议，并作口头汇报)
+- May 2024, Zirui Li attended ISCAS’2024 in Singapore and gave oral presentation. (2024年5月, 李子睿参加新加坡举办的ISCAS国际会议，并作口头汇报)
+- Mar 2024, Jingyu attended DATE’2024 conference in Spain, and gave presentation! (2024年3月，贾敬瑜参加西班牙举办的DATE’2024会议并作汇报)
+- Feb 2024, one paper related with EMIR accepted by GLSVLSI’2024. Its title is “PGAU: Static IR Drop Analysis for Power Grid using Attention U-Net Architecture and Label Distribution Smoothing”. Congrats to Feng Guo, Jiawei Liu and Jingyu Jia! (2024年1月，团队一篇EMIR方向的文章被GLSVLSI’2024收录. 恭喜郭枫、刘佳伟、贾敬瑜！)
+- Jan 2024, two papers accepted by ISEDA’2024. One is “Array Partitioning Method for Streaming Dataflow Optimization in High-level Synthesis”, and another one is “Automated Python-to-RTL Transformation and Optimization for Neural Network Acceleration”. Congrats to Renjing Hou and Chen Yang! (2024年1月, 团队2篇论文被ISEDA’2024收录, 全与HLS相关. 第一篇与HLS的dataflow微架构下的数组划分相关，另一篇与python-RTL的编译转换相关. 恭喜侯人靖、杨晨！)
+- Dec 2023, Prof Kang Zhao attended FPT’2023 in Japan, and gave presentation in the steering committee. (2023年12月, 赵康老师参加了日本横滨举办的FPT国际会议，并在选举委员会发言，汇报了FPT2025的承办筹备工作)
+- Dec 2023, team won the First Prize in the EDA national competition! Congrats to Jiawei Liu, Feng Guo and Jingyu Jia! Thanks Prof Jianwang! This topic channel is related with SoC IR drop method. (2023年12月，团队斩获EDA全国精英挑战赛一等奖！恭喜刘佳伟、郭枫、贾敬瑜！感谢翟老师指导！该赛题与IR drop算法相关.)
+- Dec 2023, team won the Third Prize in the EDA national competition! Congrats to Guande Dong, Hongtao Cheng and Renjing Hou! Thanks Prof Jianwang! This topic channel is related with logic synthesis optimization. (2023年12月，团队斩获EDA全国精英挑战赛三等奖！恭喜董冠德、程泓涛、侯人靖！感谢翟老师指导！该赛题与逻辑综合优化相关.)
+- Oct 2023, one paper accepted by ISCAS’2024. Its title is “Effective Resource Model and Cost Scheme for Maze Routing in 3D Global Routing”. Congrats to Zirui! Thanks Prof Zhongdong Qi and Jianwang Zhai! (2023年10月, 团队一篇与全局布线相关的论文被ISCAS’2024收录! 恭喜李子睿！感谢祁仲冬老师、翟建旺老师的联合指导)
+- Oct 2023, one paper accepted by DATE’2024. Its title is “Fast Estimation for Electromigration Nucleation Time Based on Random Activation Energy Model”. Congrats to Jingyu Jia! Thanks Prof Zhai! (2023年10月, 团队一篇EMIR方向的论文被DATE’2024收录. 恭喜贾敬瑜！感谢翟老师指导)
+- Oct 2023, another paper related with high-level synthesis accepted by DATE’2024. Its title is “Cuper: Customized Dataflow and Perceptual Decoding for Sparse Matrix-Vector Multiplication on HBM-Equipped FPGAs”. This is the cooperative work with Prof Zhou Jin, and its topic is HLS acceleration for HBM. (2023年10月, 另一篇合作论文工作同时被DATE‘2024收录。这是赵康与石油大学金洲老师团队的合作成果, 主题是基于HLS的HBM平台加速器设计)
+- Sep 2023, one paper accepted by JCAD journal which is the A-level journal in China. Its title is “Global layout algorithm based on key gates within CNFET circuit segments”. Congrats to Kanglin Tian! (2023年9月, 团队一篇论文被国内A类期刊《计算机辅助设计与图形学学报》收录. 论文内容与碳基电路的布局算法相关. 恭喜田康林！)
+- Sep 2023, Prof Jianwang Zhai won the Best PhD Thesis Award in EDA2. Congrats! (恭喜翟建旺老师荣获2023年EDA平方颁发的最佳博士论文奖)
+- Sep 2023, Prof Kang Zhao is selected to serve in CCF IC Steering Committee. (2023年9月, 赵康老师被评为中国计算机学会CCF集成电路专委常务委员)
+- Aug 2023, Prof Kang Zhao organized 1st Carbon Process and EDA Workshop in Taiyuan. (2023年8月, 赵康组织了第一届碳基工艺与自动化学术论坛, 邀请了北京大学彭院士团队、清华大学王燕教授、山西碳基研究院团队进行学术探讨)
+- July 2023, Prof Kang Zhao helped to organize the National Testing Conference as the workshop chair. (2023年7月, 作为论坛主席赵康老师协助承办了全国容错大会)
+- May 2023, Prof Kang Zhao attended ISEDA’2023 in Nanjing. Together with Jingyu and Renjing. (2023年5月, 赵康与贾敬瑜、侯人靖参与了南京举办的ISEDA国际会议)
+- Feb 2023, one paper accepted by ISEDA’2023. Its title is “A Resource Sharing Approach for Logic Synthesis Based on Monte Carlo Tree Search”. This is cooperative work with Tsinghua University and Giga-Da Inc. (2023年2月, ISEDA收录了一篇逻辑综合相关的论文, 这是与清华大学喻文健老师、深圳市鸿芯微纳公司的合作成果)
+- Nov 2022, one paper accepted by ACM TRETS. Its title is “Adaptive Selection and Clustering of Partial Reconfiguration Modules for Modern FPGA Design Flow”. This is cooperative work with Tsinghua University and Wuhan University. (2022年11月, 赵康的一篇论文被ACM Transactions on Reconfigurable Technology and Systems期刊收录，内容与FPGA可重构算法相关，是与清华大学马昱春老师、武汉理工大学徐宁老师的合作成果)
+- Sep 2022, EDA team is built up! (2022年9月, 北京邮电大学EDA团队正式成立! 除赵康老师外，只有硕士生田康林1位同学. 希望团队迅速成长!)
+
+
+
+
