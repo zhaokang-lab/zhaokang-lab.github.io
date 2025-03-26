@@ -22,7 +22,7 @@ Machine learning-assisted design space exploration is one of our main research d
 
 In the future, we will develop a cross-level collaborative design toolchain for the next generation of integrated circuit systems, accelerate the integration of machine learning algorithms and architecture design, and actively carry out cutting-edge research in agile architecture modeling, large language model assisted methods, and architecture-level expression of multi-die interconnection, further promoting the construction of an open-source ecosystem for tools and reducing the technical barriers for advanced architecture design.
 
-<img align="center" src="../images/DSE.png"/>
+<img align="center" src="../images/DSE.jpg"/>
 
 我们专注于架构级设计空间探索（Design Space Exploration, DSE）算法的研发与创新，致力于为先进芯片、处理器及异构计算系统等领域的架构设计提供自动化、智能化的决策支持。通过融合体系结构建模、优化算法与人工智能技术，团队所提出创新框架旨在突破传统设计流程的效率瓶颈，帮助架构设计师在复杂的多维设计空间中快速定位高性能、低功耗、高可靠性的最优架构方案。
 
@@ -35,7 +35,7 @@ In the future, we will develop a cross-level collaborative design toolchain for 
 ## High-level Synthesis (HLS)
 High-Level Synthesis (HLS) is a transformative technology in Electronic Design Automation (EDA) that enables the automatic generation of hardware designs from high-level programming languages such as C, C++, or Python. The primary function of HLS tools is to bridge the gap between software and hardware development, allowing designers to focus on algorithmic optimization while the tool handles the complexities of hardware implementation. This significantly reduces development time and makes hardware design more accessible to software engineers.
 
-<img align="center" src="../images/HLS.png"/>
+<img align="center" src="../images/HLS.jpg"/>
 
 As shown in the diagram, the HLS (High-Level Synthesis) process is typically divided into two parts: the front-end and the back-end. The front-end is responsible for parsing high-level language code into an intermediate representation (IR) and applying optimization techniques (such as loop unrolling, pipelining, and dataflow analysis) to generate an efficient hardware architecture. The back-end then translates the optimized IR into target hardware description languages (HDLs), performs resource allocation and scheduling, and generates the final RTL (Register Transfer Level) code. 
 
@@ -97,4 +97,15 @@ As integrated circuit (IC) designs scale to unprecedented complexity, power grid
 
 # 4.Chiplet Tools
 ## Simulation and Modeling
+
+With the advent of the post-Moore era, advanced packaging technologies have gained increasing attention and even emerged as one of the most promising development directions in the integrated circuit industry. Chiplet technology decomposes traditional SoC architectures into multiple single-function or multi-functional chiplets that are interconnected through substrate-level integration within a single package to form complete complex functional chips. While driving chip systems toward higher performance, Chiplet technology also introduces exacerbated power consumption and thermal dissipation challenges. Currently, there is a notable deficiency in architectural-level power modeling and thermal simulation EDA tools specifically addressing these issues.
+
+We focuses on backend EDA tool development optimized for Chiplet-packaged ICs, with particular emphasis on resolving thermal modeling challenges in multi-physics coupled simulations that arise from the heterogeneous and heterogenous integration characteristics of Chiplet packaging. Our team is currently dedicated to implementing faster and more accurate transient thermal simulations through deep learning algorithms, effectively compensating for the limitations of conventional thermal simulation methodologies that suffer from slow computation speeds and excessive computational resource requirements. Looking forward, we plan to account for the growing diversity of Chiplet packaging configurations and develop a cross-level modeling framework specifically tailored for Chiplet interconnect architectures. This advancement aims to expand the applicability range of existing models and propel the evolution of design tools for heterogeneous integration chips.
+
+<img align="center" src="../images/simulation.png"/>
+
+随着后摩尔时代的到来，先进封装技术愈发受到关注，甚至成为集成电路产业最有潜力的发展方向之一。其中，Chiplet技术将传统的系统级芯片划分为多个单功能或多功能组合的“芯粒”,在一个封装内通过基板互连成为一个完整的复杂功能芯片。Chiplet技术在推动着芯片系统向着更高性能发展的同时也带来了更严重的功耗和散热问题，而目前针对此问题的架构级功耗建模和热仿真EDA工具比较缺乏。
+
+我们聚焦于更适合Chiplet封装芯片的EDA工具后端设计，针对Chiplet封装异质异构特性，重点突破多物理场耦合仿真中的热建模难题。当前，团队致力于利用深度学习算法实现更快、更精准的瞬态热仿真，以更好的效果弥补传统热仿真方针速度慢、算力要求高等缺陷。未来，我们将进一步考虑Chiplet封装形式多样性，致力于设计面向Chiplet互连架构的跨层级建模框架以扩宽模型适用范围，推动异质异构集成芯片设计工具发展。
+
 ## Physical Design
