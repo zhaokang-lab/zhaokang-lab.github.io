@@ -34,8 +34,6 @@ author_profile: true
 - Donghao Guo 郭东昊(2024): high-level synthesis
 - Ze Hao 郝泽(2024): chiplet thermal modeling
 
-
-
 ## Cooperative Students
 
 - Tingyuan Liang, Linfeng Du, Jinming Ge (Prof Wei Zhang, Hong Kong University of Science and Technology) 梁庭园、杜林峰、葛谨鸣（香港科技大学张薇老师团队）
