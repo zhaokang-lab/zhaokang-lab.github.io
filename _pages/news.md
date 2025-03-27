@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **置顶: 长期招聘EDA与FPGA等方向的博士后!** [[详细信息](https://zhaokang-lab.github.io/news/postdoc.pdf)]
-- **置顶: 长期招收计算机/人工智能/集成电路等专业的博士硕士研究生!** [[详细信息](https://zhaokang-lab.github.io/Recruit_BUPT_ZhaoKang_EDA_2025.pdf)]
+- **置顶: 长期招收计算机/人工智能/集成电路等专业的博士硕士研究生!** [[海报](https://zhaokang-lab.github.io/Recruit_BUPT_ZhaoKang_EDA_2025.pdf)] [[详细信息](https://zhaokang-lab.github.io//openings/)]
 - **置顶:** Mar 2025, [FPT’2025 website](https://fpt2025.shanghaitech.edu.cn/) is open. As the TPC Chair, Prof Kang Zhao will help to organize FPT’2025. Welcome to submit! (2025年3月, **国际会议[FPT’2025网站](https://fpt2025.shanghaitech.edu.cn/)**正式开通. 作为程序委员会主席, 赵康老师与哈亚军老师共同承办该项FPGA领域国际重要会议. **欢迎投稿!**)
 - Mar 2025, two papers accepted by [ISEDA'2025](https://www.eda2.com/iseda/index.html). Titles are "Simulation and Exploration for Multi-Chiplet Systems using Open-Source Tools and Heuristic Algorithm" and "Multi-Objective Bayesian Target Interval Optimization for Semiconductor Process Parameters". Congrats to Luming Wang, Xiao Yang, Fangli Liu, Xingyu Qin, Zichao Ling, Yujie Zhang, Zheqin Cao, Yixin Xuan! (2025年3月, **团队2篇论文被[ISEDA'2025](https://www.eda2.com/iseda/index.html)收录**. 恭喜王璐明、杨骁、刘芳丽、秦星宇、凌梓超、张郁洁、曹哲钦、玄益昕等各位同学!)
 - Feb 2025, two papers related with AMD Versal AIE accelerator accepted by [DAC'2025](http://www.dac.com/). Titles are "HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design" and “VSpGEMM: Exploiting Versal ACAP for High-Performance SpGEMM Acceleration”, congrats to Xinya Luan and Kai Shi! Thanks Prof Zhe Lin! (2025年2月，**团队2篇AMD Versal AIE加速相关的文章被[DAC'2025](http://www.dac.com/)收录**. 恭喜栾昕亚、石开！感谢林哲老师)
