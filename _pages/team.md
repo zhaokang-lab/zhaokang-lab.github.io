@@ -5,12 +5,12 @@ permalink: /team/
 author_profile: true
 ---
 
-## Teachers
+## Teachers 教师
 
-- [Prof Jianwang Zhai](https://zhaijw18.github.io/)
-- [Prof Zhe Lin](https://zlinaf.github.io/), Sun Yat-sen University
+- [Prof Jianwang Zhai](https://zhaijw18.github.io/) 翟建旺
+- [Prof Zhe Lin](https://zlinaf.github.io/), Sun Yat-sen University  林哲,中山大学
 
-## PhD Students
+## PhD Students 博士研究生
 
 - Renjing Hou 侯人靖(2023): high-level synthesis
 - Kanglin Tian 田康林(2024): layout; floorplan, placement
@@ -18,7 +18,7 @@ author_profile: true
 - Yijun Chen 陈奕俊(2024): Multi-FPGA (Cooperator: [Prof Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/~yuwj/intro_c.htm), Tsinghua University)
 - Yu Zhang 张宇(2024): Multimedia (Cooperator: [Prof Yibo Fan](http://viplab.fudan.edu.cn/), Fudan University)
 
-## Master Students
+## Master Students 硕士研究生
 
 - Zirui Li 李子睿(2023): floorplan, placement, routing
 - Jingyu Jia 贾敬瑜(2023): EMIR
@@ -34,7 +34,7 @@ author_profile: true
 - Donghao Guo 郭东昊(2024): high-level synthesis
 - Ze Hao 郝泽(2024): chiplet thermal modeling
 
-## Cooperative Students
+## Cooperative Students 联合培养
 
 - Tingyuan Liang, Linfeng Du, Jinming Ge (Prof Wei Zhang, Hong Kong University of Science and Technology) 梁庭园、杜林峰、葛谨鸣（香港科技大学张薇老师团队）
 - Qirui Yang (Prof Wenjian Yu, Tsinghua University) 杨祺瑞（清华大学喻文健老师团队）
@@ -43,12 +43,12 @@ author_profile: true
 - Kang Yang (Prof Zhaofeng He, Beijing University of Posts and Telecommunications) 杨康（北京邮电大学何召峰老师团队）
 - Yu Chen, Qi Liu (Prof Hai Jiang, Beijing University of Posts and Telecommunications) 陈雨、刘奇（北京邮电大学姜海老师团队）
 - Yixin Xuan, Jiaqi Yan, Wenfeng Song (Future College of Beijing University of Posts and Telecommunications) 玄益昕、闫家齐、宋文峰（北京邮电大学未来学院本科生）
-- Zixuan Li and Chen Yang (Department of Electronic Engineering, BUPT)  李梓轩、杨晨，北邮电子学院
+- Zixuan Li and Chen Yang (Department of AI/EE, BUPT)  李梓轩/杨晨，北邮人工智能/电子学院
 - Xinying Du (Prof Xiaojuan Wang, Beijing University of Posts and Telecommunications) 杜欣颖（北京邮电大学王小娟老师团队）
 - Yajun Wang (Prof Jun Cui, Tianjin Polytechnic University) 王亚军（天津工业大学崔军老师团队）
 - Enxin Yi, Yiru Duan (Prof Zhou Jin, China university of petroleum) 中国石油大学金洲老师团队
 
-## Undergraduate
+## Undergraduate 本科生(研零)
 
 - Yueyue Xi 席月月(2025)
 - Fangli Liu 刘芳丽(2025)
@@ -62,3 +62,7 @@ author_profile: true
 - Yi Huang 黄羿(2025)
 - Zheqin Cao 曹哲钦(2025)
 - Yujie Zhang 张郁洁(2025)
+
+## Alumni 已毕业学生
+
+- To be added
