@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Award"
 permalink: /teaching/
 author_profile: true
 ---
@@ -23,15 +23,15 @@ Mainly aimed at undergraduate students in 3rd year of Future College. This cours
  
 # Awards 获奖
 ## Competition Award 竞赛获奖
-- 张恒源、田康林、李子睿，获2024年中国研究生创“芯”大赛EDA精英挑战赛总决赛菁英杯、一等奖、企业特别奖
-- 陈奕俊、窦力扬、伏培燚，获2024年中国研究生创“芯”大赛EDA精英挑战赛总决赛三等奖
-- 陈奕俊、郝泽、曹德滨，获2024年中国研究生创“芯”大赛行芯专项二等奖、团队优秀奖
-- 凌梓超、李麟、黄奕，获2024年集成芯片和芯粒技术开源社区大赛一等奖、赛题冠军
-- 刘芳丽、王璐明、曹哲钦，获2024年集成芯片和芯粒技术开源社区大赛二等奖
-- 玄益昕、闫家齐、宋之峰，获2024年集成芯片和芯粒技术开源社区大赛三等奖
-- 杨骁、秦星宇，获2024高校ICT产教融合创新大赛三等奖
-- 刘佳玮、郭枫、贾敬瑜，获2023年中国研究生创“芯”大赛EDA精英挑战赛总决赛一等奖
-- 董冠德、程泓涛、侯人靖，获2023年中国研究生创“芯”大赛EDA精英挑战赛总决赛三等奖
+- 张恒源、田康林、李子睿，获2024年中国研究生创“芯”大赛EDA精英挑战赛总决赛菁英杯、一等奖、企业特别奖. [[菁英杯]](https://zhaokang-lab.github.io/award/2024_EDA_chiplet_cap.pdf) [[奖状]](https://zhaokang-lab.github.io/award/2024_EDA_chiplet_first.pdf)
+- 陈奕俊、窦力扬、伏培燚，获2024年中国研究生创“芯”大赛EDA精英挑战赛总决赛三等奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_EDA_FPGA_third.pdf)
+- 陈奕俊、郝泽、曹德滨，获2024年中国研究生创“芯”大赛行芯专项二等奖、团队优秀奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_xingxin_second.pdf)
+- 凌梓超、李麟、黄羿，获2024年集成芯片和芯粒技术开源社区大赛一等奖、赛题冠军. [[奖状]](https://zhaokang-lab.github.io/award/2024_chiplet_first.pdf)
+- 刘芳丽、王璐明、曹哲钦，获2024年集成芯片和芯粒技术开源社区大赛二等奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_chiplet_second.pdf)
+- 玄益昕、闫家齐、宋文峰，获2024年集成芯片和芯粒技术开源社区大赛三等奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_chiplet_third.pdf)
+- 杨骁、秦星宇、郑翔宇，获2024高校ICT产教融合创新大赛三等奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_ICT_third.pdf)
+- 刘佳玮、郭枫、贾敬瑜，获2023年中国研究生创“芯”大赛EDA精英挑战赛总决赛一等奖、企业特别奖. [[奖状]](https://zhaokang-lab.github.io/award/2023_EDA_EMIR_first.jpg)
+- 董冠德、程泓涛、侯人靖，获2023年中国研究生创“芯”大赛EDA精英挑战赛总决赛三等奖. [[奖状]](https://zhaokang-lab.github.io/award/2023_EDA_LS_third.jpg)
 
 ## BUPT Award 学校奖项
 - 2024年，EDA团队获北京邮电大学集成电路学院“优秀团队”称号
