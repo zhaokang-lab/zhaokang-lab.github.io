@@ -70,4 +70,4 @@ author_profile: true
 
 ## Team Photos 团队照片
 
-![2024:教师节](https://zhaokang-lab.github.io/news/2024_TeacherDay.jpg)     ![2024:团建活动](https://zhaokang-lab.github.io/news/2024_TeamBuilding.jpg)
+![2024:教师节](https://zhaokang-lab.github.io/news/2024_TeacherDay.jpg#pic_center =300x225)     ![2024:团建活动](https://zhaokang-lab.github.io/news/2024_TeamBuilding.jpg#pic_center =300x200)
