@@ -66,3 +66,8 @@ author_profile: true
 ## Alumni 已毕业学生
 
 - To be added
+
+
+## Team Photos 团队照片
+
+![2024:教师节](https://zhaokang-lab.github.io/news/2024_TeacherDay.jpg)     ![2024:团建活动](https://zhaokang-lab.github.io/news/2024_TeamBuilding.jpg)
