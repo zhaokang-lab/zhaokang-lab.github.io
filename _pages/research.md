@@ -109,3 +109,27 @@ We focuses on backend EDA tool development optimized for Chiplet-packaged ICs, w
 我们聚焦于更适合Chiplet封装芯片的EDA工具后端设计，针对Chiplet封装异质异构特性，重点突破多物理场耦合仿真中的热建模难题。当前，团队致力于利用深度学习算法实现更快、更精准的瞬态热仿真，以更好的效果弥补传统热仿真方针速度慢、算力要求高等缺陷。未来，我们将进一步考虑Chiplet封装形式多样性，致力于设计面向Chiplet互连架构的跨层级建模框架以扩宽模型适用范围，推动异质异构集成芯片设计工具发展。
 
 ## Physical Design
+
+Chiplet technology is a cutting-edge hotspot in the current integrated circuit design field, providing a new solution to solve the performance bottleneck and rising manufacturing cost problems in traditional single-chip design.
+
+In our EDA team, chiplet design focuses on the following key aspects:
+The first is chip function division. We are committed to the research and development of efficient and automated division tools. Through advanced algorithms and machine learning technologies, complex chips are intelligently divided into functionally independent chiplet modules, thereby improving the flexibility and reusability of the design and significantly reducing the design cost.
+
+The second is chiplet combination and decomposition. The team has built a flexible chiplet library management system that can quickly respond to the needs of different application scenarios and dynamically select the optimal chiplet combination solution. This makes chip development more agile and significantly shortens the time to market.
+
+In terms of chiplet layout optimization, we use advanced machine learning-assisted technology and thermal management simulation models to ensure that the position layout of the chiplets in the package is optimal. This refined layout optimization can effectively reduce communication delays and improve chip heat dissipation efficiency and overall performance.
+In addition, we also pay close attention to the thermal management of chiplets after packaging. We use accurate thermal analysis models and fast solution methods to actively optimize chiplet layout to ensure thermal stability and reliability of high-power chips during operation.
+Through these innovative methods and technologies, our EDA team is committed to creating higher-performance, lower-power, and more cost-effective chiplet design solutions to promote the further development of chiplet technology and its widespread application in the industry.
+
+<img align="center" src="../images/design.png"/>
+
+芯粒技术是当前集成电路设计领域的前沿热点，为解决传统单芯片设计中性能瓶颈和制造成本上升问题提供了全新的解决方案。
+
+在我们的EDA团队中，Chiplet设计聚焦于以下几个关键方面：
+首先是芯片功能划分。我们致力于高效自动化划分工具的研发，通过先进的算法和机器学习技术，智能地将复杂芯片拆分为功能独立的芯粒模块，从而提高设计的灵活性和可复用性，大幅降低设计成本。
+
+其次是芯粒组合与分解。团队构建了一套灵活的芯粒库管理系统，能够快速响应不同应用场景的需求，动态选择最优芯粒组合方案。这使得芯片开发更具敏捷性，显著缩短产品上市时间。
+在芯粒布图布局优化方面，我们采用了先进的机器学习辅助技术和热管理仿真模型，确保芯粒在封装中的位置布局达到最佳状态。这种精细化布局优化能够有效降低通信延迟，提升芯片散热效率和整体性能。
+此外，我们也十分关注芯粒封装后的热管理问题，利用精确的热分析模型和快速求解方法，主动优化芯粒布局，确保高功率芯片运行时的热稳定性与可靠性。
+
+通过这些创新方法与技术，我们的EDA团队致力于打造更高性能、更低功耗且更具成本效益的芯粒设计方案，推动Chiplet技术的进一步发展以及在工业界的广泛应用
