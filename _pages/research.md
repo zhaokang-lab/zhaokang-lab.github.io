@@ -58,6 +58,18 @@ With the success of Artificial Intelligence (AI) in fields such as physical desi
 
 # 3.Physical Design
 ## Floorplan
+Floorplanning is the initial step in IC physical design and significantly impacts the quality of subsequent design stages, e.g., placement and routing.
+Given a module list and a netlist, the floorplanner determines the shape and position of the modules according to specific strategies to achieve comprehensive optimization, e.g., wirelength, area, timing, congestion, etc. 
+Floorplanning plays a critical role in hierarchical and modular chip designs, and the evolution of such methodologies continues to introduce new challenges to this stage.  
+Our team focuses on complex floorplanning problems for advanced packaging and hierarchical design. Research topics include, but are not limited to, floorplanning for 2.5D/3D chiplet integration, algorithms for rectilinear soft module placement, and co-optimization of partitioning and floorplanning.  
+We aim to develop efficient and accurate models and algorithms that enable rapid quality estimation and design guidance in the early stages of physical design.
+
+布图规划是集成电路物理设计的初始阶段，对后续设计阶段 (如布局和布线) 的质量有重要影响。
+在给定模块列表和网络列表后，布图规划器据具体策略确定模块的形状和位置，以实现综合优化，如线长、面积、时间、拥塞等。
+布图规划阶段对于采用层次化、模块化设计的芯片来说尤为重要，且这类设计方法的不断发展也为布图规划问题带来了新的挑战。
+我们的团队目前专注于面向先进封装、层次化设计的复杂布图规划问题，研究焦点包括并不限于2.5D/3D芯粒封装下的布图规划问题、直线多边形软模块的布图规划算法与芯片划分-布图规划协同优化问题等。
+我们旨在研究高效且尽可能精确的布图规划模型与算法，从而实现在物理设计初期的快速设计质量评估与参考。
+
 ## Placement
 Placement is a critical but time-consuming step in the VLSI design flow. As it determines the locations of standard cells in the physical layout, its quality has significant impacts on the later stages in the flow such as routing and post-layout optimization. 
 
