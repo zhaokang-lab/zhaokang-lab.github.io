@@ -8,6 +8,7 @@ author_profile: true
 **\* denotes equal contribution**
 
 ## 2025
+- [[TCAS-I]] Kang Yang, Jianwang Zhai, Liuyu Xiang, Zixi Huang, Dan Wu, Yida Wang, Kang Zhao, Ming Lei, and Zhaofeng He. "DrlGoFPGA: FPGA Global Placement Considering Input-Output Buffer Based on Deep Reinforcement Learning and Gradient Optimization," IEEE Transactions on Circuits and Systems—I: Regular Papers, May 2025.
 - [[ISEDA](https://www.eda2.com/iseda/index.html)] Luming Wang, Fangli Liu, Zichao Ling, Zheqin Cao, Yixin Xuan, Jianwang Zhai, and **Kang Zhao**. "Simulation and Exploration for Multi-Chiplet Systems using Open-Source Tools and Heuristic Algorithm," Proc. International Symposium on Electronic Design Automation (ISEDA), Hong Kong, May 2025.
 - [[ISEDA](https://www.eda2.com/iseda/index.html)] Yang Xiao, Xingyu Qin, Yujie Zhang, Jianwang Zhai, **Kang Zhao**. "Multi-Objective Bayesian Target Interval Optimization for Semiconductor Process Parameters", Proc. International Symposium on Electronic Design Automation (ISEDA), Hong Kong, May 2025.
 - [[DAC](http://www.dac.com/)] Xinya Luan, Zhe Lin, Kai Shi, Jianwang Zhai, **Kang Zhao**. “HeteroSVD: Efficient SVD Accelerator on Versal ACAP with Algorithm-Hardware Co-Design”, ACM/IEEE Design Automation Conference (DAC), San Francisco, Jun 2025.
