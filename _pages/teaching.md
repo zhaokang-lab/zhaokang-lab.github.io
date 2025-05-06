@@ -48,5 +48,5 @@ Mainly aimed at undergraduate students in 3rd year of Future College. This cours
 - 赵康，王亚军，崔军，侯人靖，"面向FPGA的粗粒度FIFO硬件通道自动拟合方法"，专利号：ZL 202310903805.6 (授权)
 - 李子睿，赵康，祁仲冬，翟建旺，"一种多层级总体布线方法及系统"，专利号：ZL 202310952802.1 (授权)
 - 翟建旺，李梓轩，田康林，赵康，"一种考虑模块对称性的布图规划方法、系统及电子设备"，专利号：ZL 202410232063.3 (授权)
-- 田康林，赵康，翟建旺，"互连线网的点到点电阻计算方法、装置、设备及介质"，专利号：ZL 202310934054.4 (授权)
+- 田康林，赵康，翟建旺，"一种CNFET电路的布局方法及系统"，专利号：ZL 202310934054.4 (授权)
 - Sai Luo, Tin-Fook Ngai, Hu Chen, Xiaocheng Zhou, Chunxiao Lin, Kang Zhao. "MultiCore Memory Data Recorder For Kernel Module", US 2017/0255560 A1, 2017. (授权)
