@@ -62,6 +62,9 @@ author_profile: true
 - Yi Huang 黄羿(2025)
 - Zheqin Cao 曹哲钦(2025)
 - Yujie Zhang 张郁洁(2025)
+- Changxin Wei 蔚常欣(2025)
+- Minghao Dong 董明浩(2025)
+- Cong Ma 马聪(2025)
 
 ## Alumni 已毕业学生
 
