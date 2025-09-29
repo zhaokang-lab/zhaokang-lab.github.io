@@ -17,12 +17,12 @@ author_profile: true
 - Xinya Luan 栾昕亚(2024): Versal AIE
 - Yijun Chen 陈奕俊(2024): Multi-FPGA (Cooperator: [Prof Wenjian Yu](https://numbda.cs.tsinghua.edu.cn/~yuwj/intro_c.htm), Tsinghua University)
 - Yu Zhang 张宇(2024): Multimedia (Cooperator: [Prof Yibo Fan](http://viplab.fudan.edu.cn/), Fudan University)
+- Guande Dong 董冠德(2025): Logic synthesis
 
 ## Master Students 硕士研究生
 
 - Zirui Li 李子睿(2023): floorplan, placement, routing
 - Jingyu Jia 贾敬瑜(2023): EMIR
-- Guande Dong 董冠德(2023): Logic synthesis
 - Hengyuan Zhang 张恒源(2023): Chiplet partitioning
 - Zibo Hu 呼子博(2024): high-level synthesis
 - Kai Shi 石开(2024): Versal AIE
@@ -33,6 +33,21 @@ author_profile: true
 - Zhenghao Chen 陈正浩(2024): LLM for EDA
 - Donghao Guo 郭东昊(2024): high-level synthesis
 - Ze Hao 郝泽(2024): chiplet thermal modeling
+- Yueyue Xi 席月月(2025)
+- Fangli Liu 刘芳丽(2025)
+- Liyang Dou 窦力扬(2025)
+- Peiyi Fu 伏培燚(2025)
+- Yahao Wang 王亚豪(2025)
+- Hao Luo 罗昊(2025)
+- Lin Li 李麟(2025)
+- Yuntao Nie 聂云滔(2025)
+- Luming Wang 王璐明(2025)
+- Yi Huang 黄羿(2025)
+- Zheqin Cao 曹哲钦(2025)
+- Yujie Zhang 张郁洁(2025)
+- Changxin Wei 蔚常欣(2025)
+- Minghao Dong 董明浩(2025)
+- Cong Ma 马聪(2025)
 
 ## Cooperative Students 联合培养
 
@@ -50,21 +65,7 @@ author_profile: true
 
 ## Undergraduate 本科生(研零)
 
-- Yueyue Xi 席月月(2025)
-- Fangli Liu 刘芳丽(2025)
-- Liyang Dou 窦力扬(2025)
-- Peiyi Fu 伏培燚(2025)
-- Yahao Wang 王亚豪(2025)
-- Hao Luo 罗昊(2025)
-- Lin Li 李麟(2025)
-- Yuntao Nie 聂云滔(2025)
-- Luming Wang 王璐明(2025)
-- Yi Huang 黄羿(2025)
-- Zheqin Cao 曹哲钦(2025)
-- Yujie Zhang 张郁洁(2025)
-- Changxin Wei 蔚常欣(2025)
-- Minghao Dong 董明浩(2025)
-- Cong Ma 马聪(2025)
+- To be added
 
 ## Alumni 已毕业学生
 
