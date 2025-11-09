@@ -13,7 +13,7 @@ In 2009, he graduated from the EDA Lab of Tsinghua University, and then continue
 
 In 2022, he joined the Beijing University of Posts and Telecommunications, focusing on the EDA and FPGA domain, especially HLS and logic synthesis. He is leading the project of National Key R&D Program of China.
 
-赵康，北京邮电大学集成电路学院教授，博士生导师，北京市高端领军人才研究员。深耕集成电路EDA领域(Synthesis)近20年，既有高校工作经历，又有丰富的国际领军企业高端产品设计经验。
+赵康，北京邮电大学集成电路学院教授，博士生导师，国家高层次人才获得者，北京市高端领军人才研究员。深耕集成电路EDA领域(Synthesis)近20年，既有高校工作经历，又有丰富的国际领军企业高端产品设计经验。
 
 2009年博士毕业于清华大学计算机系EDA实验室，之后留校工作两年，曾主持参与国家自然科学基金、国家博士后基金、十一五核高基重大专项。2011年加盟英特尔研究院，期间参与Intel Clanton处理器、软硬协同验证、人工智能机器人等项目。2016年加盟Xilinx(AMD)北京研发中心，领导Xilinx(AMD)的EDA高层次综合产品团队，对接全球FPGA领域最先进的HLS产品。
 
