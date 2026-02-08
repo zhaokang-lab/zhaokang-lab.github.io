@@ -10,7 +10,7 @@ author_profile: true
 ## 2026
 - [[DATE](https://date26.date-conference.com/)] Zhenghao Chen, Yuan Pu, Hairuo Han, Yuntao Nie, Jiajun Qin, Yuhan Qin, Tairu Qiu, Zhuolun He, Jianwang Zhai, Bei Yu and Kang Zhao. “MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, 2026.
 - [[DATE](https://date26.date-conference.com/)] Xingyu Qin, Guande Dong, Jianwang Zhai, Kang Zhao. “DynaOpt: A Heterogeneous Logic Optimization Framework with Dynamic Sequence Generation”, IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE), Verona, Italy, 2026.
-- [[ASPDAC](http://www.aspdac.com/)] Zibo Hu, Zhe Lin, Renjing Hou, Xingyu Qin, Jianwang Zhai, **Kang Zhao**. “HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Hong Kong, Jan 2026.
+- [[ASPDAC](http://www.aspdac.com/)] Zibo Hu, Zhe Lin, Renjing Hou, Xingyu Qin, Jianwang Zhai, **Kang Zhao**. “HLS-Timer: Fine-Grained Path-Level Timing Estimation for High-Level Synthesis”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Hong Kong, Jan 2026.[[pdf](https://zhaokang-lab.github.io/papers/2026/2026_ASPDAC26_HuZiBo.pdf)] [[slides](https://zhaokang-lab.github.io/slides/slides_2026_ASPDAC_HuZiBo.pdf)]
 - [[ASPDAC](http://www.aspdac.com/)] Yijun Chen\*, Haoyuan Li\*, Chunyan Pei, Jianwang Zhai, **Kang Zhao** and Wenjian Yu. “Timing-aware optimization of die-level routing and TDM assignment for multi-FPGA systems”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Hong Kong, Jan 2026. (*Equal contribution)
 
 ## 2025
