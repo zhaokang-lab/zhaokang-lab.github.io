@@ -25,6 +25,7 @@ Mainly aimed at undergraduate students in 3rd year of Future College. This cours
 ## Competition Award 竞赛获奖
 - 董冠德、秦星宇、林塍深，获得2025中国研究生创“芯”大赛·EDA精英挑战赛总决赛一等奖. [[奖状](https://zhaokang-lab.github.io/award/2025_EDA_LS_first.pdf)]
 - 逯晓暾、张松涛、赵文生，获得2025中国研究生创“芯”大赛·EDA精英挑战赛总决赛二等奖. [[奖状](https://zhaokang-lab.github.io/award/2025_EDA_AI4_second.pdf)]
+- 伏培燚、王璐明、窦力扬，获得2025中国研究生创“芯”大赛·EDA精英挑战赛总决赛三等奖. [[奖状](https://zhaokang-lab.github.io/award/2025_EDA_compiler_third.pdf)]
 - 张恒源、田康林、李子睿，获2024年中国研究生创“芯”大赛EDA精英挑战赛总决赛菁英杯、一等奖、企业特别奖. [[菁英杯]](https://zhaokang-lab.github.io/award/2024_EDA_chiplet_cap.pdf) [[奖状]](https://zhaokang-lab.github.io/award/2024_EDA_chiplet_first.pdf)
 - 陈奕俊、窦力扬、伏培燚，获2024年中国研究生创“芯”大赛EDA精英挑战赛总决赛三等奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_EDA_FPGA_third.pdf)
 - 陈奕俊、郝泽、曹德滨，获2024年中国研究生创“芯”大赛行芯专项二等奖、团队优秀奖. [[奖状]](https://zhaokang-lab.github.io/award/2024_xingxin_second.pdf)
