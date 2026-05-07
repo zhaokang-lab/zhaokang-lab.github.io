@@ -8,6 +8,7 @@ author_profile: true
 **\* denotes equal contribution**
 
 ## 2026
+- [[GLSVLSI](http://glsvlsi.org/)] Hengyuan Zhang, Kanglin Tian, Zirui Li, Xiuli Fu, Jianwang Zhai, Kang Zhao. “Structural Timing-Aware Circuit Partitioning with Feasibility Constraints for Multi-Chiplet Design”, Proc. of the Great Lakes Symposium on VLSI 2026 (GLSVLSI’26), Canandaigua, NY, USA, June 2026.
 - [[TRETS](https://dl.acm.org/journal/trets/)] Xinya Luan, Zhe Lin, Kai Shi, Liyang Dou, Jianwang Zhai, **Kang Zhao**. "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis"  ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2026.
 - [[DAC](https://dac.com/2026)] Feng Guo, Yueyue Xi, Jingyu Jia, Jiawei Liu, Tianshu Hou, Yuyang Ye, Jianwang Zhai, **Kang Zhao** and Chuan Shi. "GEMIR: Graph-Based Joint Modeling of Electromigration and IR Drop for Power Grid", ACM/IEEE Proceedings Design Automation Conference (DAC), Long Beach, CA, USA, 2026.
 - [[DAC](https://dac.com/2026)] Zixuan Li*, Kanglin Tian*, Fan Hu, Zirui Li, Xinyue Wu, Hengyuan Zhang, Shixin Chen, Jianwang Zhai, Xinfei Guo and **Kang Zhao**. "ChiPlanner: Physically-Aware and Timing-Driven Design Planner for 2.5D Multi-Chiplet Systems", ACM/IEEE Proceedings Design Automation Conference (DAC), Long Beach, CA, USA, 2026.

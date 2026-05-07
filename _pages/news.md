@@ -12,6 +12,7 @@ author_profile: true
 - **置顶:** Mar 2025, [FPT’2025 website](https://fpt2025.shanghaitech.edu.cn/) is open. As the TPC Chair, Prof Kang Zhao will help to organize FPT’2025. Welcome to submit! (2025年3月, **国际会议[FPT’2025网站](https://fpt2025.shanghaitech.edu.cn/)**正式开通. 作为程序委员会主席, 赵康老师与哈亚军老师共同承办该项FPGA领域国际重要会议. **欢迎投稿!**)
 
 ## 2026
+- May 2026, one paper accepted by [GLSVLSI'2026](http://glsvlsi.org/). Its title is "Structural Timing-Aware Circuit Partitioning with Feasibility Constraints for Multi-Chiplet Design". Congrats to Hengyuan Zhang, Kanglin Tian and Zirui Li! (2026年5月, **团队1篇论文被[GLSVLSI'2026](http://glsvlsi.org/)收录**，研究内容与多芯粒系统划分优化相关. 恭喜张恒源、田康林、李子睿等同学！)
 - Apr 2026, one paper accepted by [[TRETS](https://dl.acm.org/journal/trets/)] journal. Its title is "AIEAnalyzer: An Analytical Framework for Versal AI Engine Performance Analysis". Congrats to Xinya Luan! (2026年4月, **团队1篇论文被ACM Transactions on Reconfigurable Technology and Systems期刊[[TRETS](https://dl.acm.org/journal/trets/)]收录**. 恭喜栾昕亚！)
 - Mar 2026, two papers accepted by [DAC'2026](https://dac.com/2026). Titles are "GEMIR: Graph-Based Joint Modeling of Electromigration and IR Drop for Power Grid" and "ChiPlanner: Physically-Aware and Timing-Driven Design Planner for 2.5D Multi-Chiplet Systems". Congrats to Feng Guo and Zixuan Li/Kanglin Tian! (2026年3月, **团队2篇论文被[DAC'2026](https://dac.com/2026)收录**，分别与EMIR、多芯粒系统设计相关. 恭喜郭枫、李梓轩、田康林！)
 
