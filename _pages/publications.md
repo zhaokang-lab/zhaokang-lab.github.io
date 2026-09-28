@@ -8,6 +8,7 @@ author_profile: true
 **\* denotes equal contribution**
 
 ## 2026
+- [[ICCD](https://www.iccd-conf.com/)] Ze Hao, Jianwang Zhai, Ding Gong, **Kang Zhao**, and Wenjian Yu, "SwitchSim: A SPICE-like Simulator for Switching Circuits Based on State-driven Unified Branch Stamps", IEEE International Conference on Computer Design (ICCD), 2026. [[pdf](https://zhaokang-lab.github.io/papers/2026/2026_ICCD_HaoZe.pdf)]
 - [[ICCAD](https://iccad.com/)] Ze Hao, Yu Zhang, Haoxuan Song, Tianyu Liang, Yijun Chen, Jianwang Zhai, and **Kang Zhao**. "QuantizeHeat: Generalizable Thermal Prediction for 2.5D Chiplets via Thermal-Aware Discrete Latent Space Mapping", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2026.
 - [[ICCAD](https://iccad.com/)] Shuao Jia, Zichao Ling, Chen Bai, Jianwang Zhai, and **Kang Zhao**. "Tri-Stack-PIM: A Heterogeneous Multi-Die 3D-Integrated Processing-in-Memory Architecture for Efficient LLM Inference", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2026.
 - [[ICCAD](https://iccad.com/)] Yuheng Huang, Yuhan Qin, Yuan Pu, Zhaotan Lin, Yuntao Nie, Zhuolun He, Jianwang Zhai, **Kang Zhao**, and Bei Yu. "A Multi-Granularity Retrieval Augmented Generation Framework for EDA Tasks Leveraging Knowledge Graph", IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2026.
