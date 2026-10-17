@@ -8,6 +8,7 @@ author_profile: true
 **\* denotes equal contribution**
 
 ## 2027
+- [[TRETS](https://dl.acm.org/journal/trets/)] Yingxin Zeng, Binchao Cheng, Jianwang Zhai, **Kang Zhao**, Zhe Lin. “AutoShrink 2.0: Automating Large-Scale Pareto Optimization in HLS via Adaptive and Cost-Aware Search Space Shrinkage". ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2027. [[pdf](https://zhaokang-lab.github.io/papers/2027/2027_TRETS_ZengYingXin.pdf)]
 - [[ASPDAC](http://www.aspdac.com/)] Shuao Jia, Zichao Ling, Chen Bai, Bei Yu, **Kang Zhao**, Jianwang Zhai. “FADiff: Fusion-Aware Differentiable Optimization for DNN Scheduling on Tensor Accelerators”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Jan. 25–28, 2027.
 - [[ASPDAC](http://www.aspdac.com/)] Debin Cao, Kanglin Tian, Ze Hao, Yi Huang, Bei Yu, Jianwang Zhai, **Kang Zhao**. “Thermal-Aware Chiplet Placement Integrating Evolutionary Reinforcement Learning and Monte Carlo Tree Search”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Jan. 25–28, 2027.
 - [[ASPDAC](http://www.aspdac.com/)] Hao Luo, Zhenghao Chen, Kanglin Tian, **Kang Zhao**, Jianwang Zhai. “Opening the Black Box: A Self-Correcting LLM Agent for EDA Toolchains Based on Source-Code Analysis”, IEEE/ACM Asian and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Jan. 25–28, 2027.
